@@ -68,9 +68,6 @@ Instalación y Ejecución
 
 Clonar el repositorio e ingresar al directorio del proyecto:
 
-git clone
-cd preentrega1TS
-
 (Nota: Recordá que la consigna solicita continuar trabajando sobre el mismo repositorio público de GitHub de la Preentrega 1).
 
 Instalar las dependencias:
